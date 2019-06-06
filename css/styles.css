@@ -1,0 +1,15 @@
+.jumbotron {
+  height: ;
+  display: grid;
+  text-align: center;
+
+}
+.con {
+  display: none;
+}
+.mod {
+  display: none;
+}
+.lib {
+  display: none;
+}
